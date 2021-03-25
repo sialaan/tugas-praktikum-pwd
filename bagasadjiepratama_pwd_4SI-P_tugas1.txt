@@ -1,0 +1,15 @@
+Laporan Pratikum 1
+Proses Pembuatan Akun baru di Github
+a. Membuka website github.com
+b. Masukan Nickname yang kita inginkan
+c. Input Email Kita yang masih aktif
+d. Masukan Password/sandi yang akan kita buat
+e. Selanjutnya pilih "Create an Account"
+f. lalu verifikasi terlebih dahulu akun email yang dipakai tadi
+g. setelah langkah diatas selesai maka, akun github bisa dipakai
+Nama Akun Github : bagasap21
+Materi Pratikum Hari Ini : Pembuatan akun github, membuat repo, dan membuat file di dalam repo
+
+Nama : Bagas Adjie Pratama
+NPM : 20029001
+Kelas : 4SI-P
