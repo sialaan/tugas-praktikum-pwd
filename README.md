@@ -1,12 +1,8 @@
-# tugas-praktikum
-Silahkan kumpulkan laporan praktikum kedalam repo ini dengan ketentuan:
-1. Buat file baru dengan aturan penamaan:
-    * nama kalian_mata kuliah_kelas_tugas 1
-   file yang tidak sesuai aturan nama, maka tidak akan diterima merger request
+PRACTICUM ASSIGNMENT INSTRUCTIONS
 
-2. silahkan lakukan fork-ing repository kedalam akun kalian atau langsung buat file didalam repo-master, lalu lakukan pull-request ke repo-master.
-3. Isi dalam file tersebut berupa laporan praktikum:
-    * pembuatan akun GitHub (bisa berupa narasi saja)
-    * nama akun GitHub.
-    * materi praktikum hari ini.
-    * jangan lupa beri nama dan npm serta kelas kalian
+1.	Setiap selesai pembelajaran dilab, mahasiswa wajib membuat report hasil praktikum.
+2.	File report praktikum di submit ke repo master otopet/tugas-praktikum-pwd.
+3.	Aturan penamaan file sebagai berikut:
+   nama kalian_mata kuliah_kelas_tugaske. Contoh retno_pwd_4si-m_tugas2. Nama file yang tidak sesuai dengan format, akan di tolak.
+4.	silahkan download format/template isian file laporan praktikum didalam file ini.
+
