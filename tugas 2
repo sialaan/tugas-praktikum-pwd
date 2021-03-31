@@ -1,0 +1,11 @@
+Nama : Alan Ahmad Nuar
+NPM : 19020001
+MATA KULIAH : Pemrograman Web Dinamis
+MATERI : Branch
+TUJUAN MATERI : praktek membuat branch .
+meteri tanggal 30-3-2021
+
+Branch
+Branch merupakan salinan dari repositori. Anda bisa menggunakan branch ketika akan melakukan suatu pengembangan atau development secara terpisah.
+Pekerjaan atau task yang Anda kerjakan di branch tidak akan memengaruhi repositori pusat atau branch lainnya. Jika pengembangannya sudah selesai,
+Anda bisa menggabungkan branch saat ini ke branch lainnya dah juga repositori pusat dengan menggunakan pull request.
